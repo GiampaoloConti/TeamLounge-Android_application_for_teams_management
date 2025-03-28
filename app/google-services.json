@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "375866406421",
+    "project_id": "teamlounge",
+    "storage_bucket": "teamlounge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375866406421:android:46c49ad5961af060d2c01c",
+        "android_client_info": {
+          "package_name": "it.polito.teamlounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375866406421-0ahmpfe79uinlerp3ukuqds7ob1ssmu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.teamlounge",
+            "certificate_hash": "bd4d424c8875601ebeb0f78351cd0096685f0819"
+          }
+        },
+        {
+          "client_id": "375866406421-2es4tn5k8o6rvljpplmfa28cqfi7c6li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.teamlounge",
+            "certificate_hash": "78580ff064d25d3f42b12eec39c10c3e07ee16a2"
+          }
+        },
+        {
+          "client_id": "375866406421-acq5de28lsuqopk9p85d4gm2usbk395u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.teamlounge",
+            "certificate_hash": "016fadf2077d957bc30130db6c3aadf75ac8b8e7"
+          }
+        },
+        {
+          "client_id": "375866406421-etj4b3g5m1hb86h05rqmn2msrigr4422.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5pHrg9BkZQ3df1QaU7_p6tSom0sSpAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375866406421-etj4b3g5m1hb86h05rqmn2msrigr4422.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
